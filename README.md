@@ -1,5 +1,5 @@
 # Fluttify: The Spotify like clone
-# Tech Stack Used
+# Tech Stacks Used
 · Flutter
 · FastAPI
 · Postgres
